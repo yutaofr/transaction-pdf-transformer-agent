@@ -1,0 +1,6 @@
+google-adk
+ollama
+pdf2image
+pillow
+pydantic
+pytest

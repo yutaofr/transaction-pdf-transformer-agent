@@ -1,0 +1,54 @@
+[
+  {
+    "bank_name": "Boursobank",
+    "account_number": "40618 80292 00088079938",
+    "account_type": "Compte PEA",
+    "is_pea": true,
+    "transactions": [
+      {
+        "reference": "010113439922",
+        "bank_name": "Boursobank",
+        "account_number": "40618 80292 00088079938",
+        "account_type": "Compte PEA",
+        "date": "29/12/2025",
+        "target": {
+          "isin": "FR0011871110",
+          "name": "AMUN.PEA NASDAQ-100 UC.ETF ACC",
+          "exchange": "EURONEXT PARIS"
+        },
+        "price": 87.0942,
+        "quantity": 1000,
+        "type": "Buy",
+        "fees": 435.47,
+        "taxes": 0.0,
+        "is_pea": true
+      }
+    ]
+  },
+  {
+    "bank_name": "Boursobank",
+    "account_number": "40618 80291 00080938084",
+    "account_type": "compte titres",
+    "is_pea": false,
+    "transactions": [
+      {
+        "reference": "170109469065",
+        "bank_name": "Boursobank",
+        "account_number": "40618 80291 00080938084",
+        "account_type": "compte titres",
+        "date": "12/12/2025",
+        "target": {
+          "isin": "IE00B5S3ZB19",
+          "name": "ISH NSDAQ 100 UCITS ETF USD AC",
+          "exchange": "EURONEXT AMSTERDAM"
+        },
+        "price": 1229.8,
+        "quantity": 1,
+        "type": "Buy",
+        "fees": 0.0,
+        "taxes": 0.0,
+        "is_pea": false
+      }
+    ]
+  }
+]
